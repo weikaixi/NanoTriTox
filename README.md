@@ -4,7 +4,7 @@ Frozen NanoTriTox model and post-fit numerical analyses for three-endpoint nanom
 
 Download and extract **NanoTriTox-model-and-analysis.zip** in this repository. The archive includes the complete frozen model, inference engine, Python post-fit analyses, fixed reference predictions, example/template inputs, numerical tests, and the full README with main-figure correspondence.
 
-Training, ensemble-weight fitting, and plotting code are intentionally excluded. Saved endpoint weights and MCP calibration pools are used unchanged during inference.
+The model is ready to use, with saved endpoint weights and MCP calibration pools applied directly during inference.
 
 After extraction, install Node.js 22 or later and run from the extracted directory:
 
